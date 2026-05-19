@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=screaminginmymirror&color=ff6ff2&label=lewsers" > <br>
+<img src="https://komarev.com/ghpvc/?username=screaminginmymirror&color=000000&label=losers" > <br>
 </div>
 
-![](https://cdn.discordapp.com/attachments/1279307405485936696/1503937249761296504/Untitled184_20260513094914.png?ex=6a052a36&is=6a03d8b6&hm=aec68d9fff35893e0b44b29ea52540e59e019062df92f90f78fd351d2e45c6fc&)
-![](https://cdn.discordapp.com/attachments/1279307405485936696/1503936269397262417/Untitled183_20260513094424.png?ex=6a05294c&is=6a03d7cc&hm=968167ec796555f0ce76cd1c9e873ca70d6226c925caa46856d91029dec1c58c&)
+
+
